@@ -1,5 +1,7 @@
 # Self Driving Car Projects
 
+My repo for comprehensive beginner self-driving car projects that addresses various aspects of the software development and research for self-driving cars. 
+
 (1/11) Lane Finding: Computer Vision
 
 # CarND Term1 Starter Kit
